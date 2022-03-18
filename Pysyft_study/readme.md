@@ -1,10 +1,19 @@
-此文件夹为pysyft联邦学习框架的学习
+**此文件夹为pysyft联邦学习框架的学习**
 
-requirements:
+# requirements:
+
 python3.7
+
 syft == 0.2.4
+
 torch == 1.4.0 + cu92
 
-install：
+# install：
+
 pip install torch
+
 pip install syft
+
+# introduction:
+pysyft1:
+
